@@ -1,10 +1,10 @@
 # Studies about new C# 10 features:
 
-### [Constant string interpolation](src/ConstStringInterpolation/ConstStringInterpolationTests.cs) ###
+### [Constant string interpolation](src/CSharp10Classlib/ConstStringInterpolation/ConstStringInterpolationTests.cs) ###
 
-### [Extended Property Patterns](src/ExtendedPropertyPatterns/ExtendedPropertyPatternsTests.cs) ###
+### [Extended Property Patterns](src/CSharp10Classlib/ExtendedPropertyPatterns/ExtendedPropertyPatternsTests.cs) ###
 
-### [Global usings](src/GlobalUsing/GlobalUsingTests.cs) ###
+### [Global usings](src/CSharp10Classlib/GlobalUsing/GlobalUsingTests.cs) ###
 
 #### References: ####
 
